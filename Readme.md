@@ -1,3 +1,3 @@
-#chai aur backend seres
+#chai aur backend series
 
 Learning backend with js
